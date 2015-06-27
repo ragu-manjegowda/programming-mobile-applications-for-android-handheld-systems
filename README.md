@@ -1,6 +1,5 @@
 # Programming-Mobile-Applications-for-Android-Handheld-Systems
-Coursera "Mobile Cloud Computing with Android" specialization lab assignments 
-
+Coursera "Mobile Cloud Computing with Android" specialization  
 
 This sequence of courses examines mobile cloud computing on the Android platform, 
 starting with user-facing applications, through the middleware and services running on Android devices, 
