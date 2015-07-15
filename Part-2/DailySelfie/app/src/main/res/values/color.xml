@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#B3E5FC</color>
+    <color name="accent">#FF4081</color>
+    <color name="accentTransparent">#7FFF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+
+    <color name="caqiUnknowColor">#FFFFFF</color>
+    <color name="caqiVeryLowColor">#649002</color>
+    <color name="caqiLowColor">#C9CE00</color>
+    <color name="caqiMediumColor">#FEDF00</color>
+    <color name="caqiHighColor">#F8AA00</color>
+    <color name="caqiVeryHighColor">#D30011</color>
+
+    <color name="blanco">#FFFFFF</color>
+
+    <color name="psts_background_tab_pressed">#0A03A9F4</color>
+    <color name="psts_background_tab_pressed_ripple">#FA0288D1</color>
+</resources>
